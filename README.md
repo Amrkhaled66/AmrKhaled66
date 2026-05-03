@@ -57,19 +57,6 @@ Building modern, responsive, and user-friendly web experiences.
   <img src="https://github-profile-trophy.vercel.app/?username=amrkhaled66&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" alt="GitHub Trophies" />
 </p>
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=amrkhaled66&show_icons=true&theme=tokyonight&hide_border=true" alt="Amr Khaled GitHub Stats" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amrkhaled66&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-
-</div>
-
----
 
 ## 🔥 GitHub Streak
 
@@ -79,19 +66,6 @@ Building modern, responsive, and user-friendly web experiences.
 
 </div>
 
----
-
-## 📌 Featured Project
-
-<div align="center">
-
-<a href="https://github.com/Amrkhaled66/BookCenter">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Amrkhaled66&repo=BookCenter&theme=tokyonight&hide_border=true" alt="BookCenter Repository" />
-</a>
-
-</div>
-
----
 
 <div align="center">
 
