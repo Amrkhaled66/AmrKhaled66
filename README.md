@@ -11,8 +11,6 @@ Building modern, responsive, and user-friendly web experiences.
 
 ## 🚀 About Me
 
-- 🔭 Currently working on **[BookCenter](https://github.com/Amrkhaled66/BookCenter)**
-- 💬 Ask me about **React**, **Frontend Development**, and **UI Design**
 - 📫 Reach me at **amrkahlid77@gmail.com**
 - 📄 View my experience: **[Resume / CV](https://drive.google.com/file/d/1mE9TrL0SlPLkCdRUMFet2NND7i40bvBp/view)**
 
@@ -43,7 +41,7 @@ Building modern, responsive, and user-friendly web experiences.
 
 ### Backend & Database
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,postgres,mysql" />
 </p>
 
 ### Languages & Tools
