@@ -41,7 +41,7 @@ Building modern, responsive, and user-friendly web experiences.
 
 ### Backend & Database
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,postgres,mysql" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,postgres,mysql,drizzle" />
 </p>
 
 ### Languages & Tools
