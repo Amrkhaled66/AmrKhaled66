@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Amr Khaled
 
-### Frontend Developer from Egypt 🇪🇬  
+### FullStack Developer from Egypt 🇪🇬  
 Building modern, responsive, and user-friendly web experiences.
 
 </div>
@@ -12,8 +12,6 @@ Building modern, responsive, and user-friendly web experiences.
 ## 🚀 About Me
 
 - 📫 Reach me at **amrkahlid77@gmail.com**
-- 📄 View my experience: **[Resume / CV](https://drive.google.com/file/d/1mE9TrL0SlPLkCdRUMFet2NND7i40bvBp/view)**
-
 ---
 
 ## 🌐 Connect With Me
